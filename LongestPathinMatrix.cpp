@@ -67,7 +67,4 @@ int main()
         << finLongestOverAll(mat);
    return 0;
 }
-/*
-Output
-Length of the longest path is 4
-*/
+
